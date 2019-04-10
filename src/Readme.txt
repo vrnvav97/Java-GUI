@@ -9,3 +9,5 @@ for working with mysql db you also need a mysql connector jar so please configur
 The runnable file is GUI2.jar
 
 Screenshots are also included
+
+The processing of whole project starts from clientLogin class
