@@ -1,0 +1,1 @@
+Now everyone knows what is QR code. So this project is an implementation of Google's Zxing library in Java to generate a QR code for any input text given by user. The text is then encrypted and converted into a QR code. This QR code image is then stored on a local system of the user.
